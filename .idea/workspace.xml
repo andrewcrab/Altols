@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4310ea8a-0d2f-4ed1-8f84-a5b01641c724" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/index.gsp" afterPath="$PROJECT_DIR$/grails-app/views/index.gsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/layouts/main.gsp" afterPath="$PROJECT_DIR$/grails-app/views/layouts/main.gsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/stacktrace.log" afterPath="$PROJECT_DIR$/target/stacktrace.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/css/main.css" afterPath="$PROJECT_DIR$/web-app/css/main.css" />
     </list>
     <ignored path="Altols.iws" />
@@ -65,25 +67,25 @@
       <file leaf-file-name="index.gsp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/views/index.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="40.714287">
+            <state line="28" column="0" selection-start="1064" selection-end="1064" vertical-scroll-proportion="-6.571429">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.gsp" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.gsp" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/main.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="0" selection-start="1411" selection-end="1411" vertical-scroll-proportion="-6.107143">
+            <state line="37" column="10" selection-start="1771" selection-end="1771" vertical-scroll-proportion="1.4117647">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web-app/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="1" selection-start="190" selection-end="190" vertical-scroll-proportion="0.5954416">
+            <state line="26" column="5" selection-start="579" selection-end="583" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -110,8 +112,10 @@
         <option value="$PROJECT_DIR$/grails-app/controllers/altols/UserController.groovy" />
         <option value="$PROJECT_DIR$/grails-app/views/common/_footer.gsp" />
         <option value="$PROJECT_DIR$/grails-app/views/common/_topbar.gsp" />
-        <option value="$PROJECT_DIR$/grails-app/views/layouts/main.gsp" />
         <option value="$PROJECT_DIR$/web-app/css/main.css" />
+        <option value="$PROJECT_DIR$/grails-app/views/common/buddies.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/index.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/layouts/main.gsp" />
       </list>
     </option>
   </component>
@@ -240,6 +244,11 @@
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="dynamic.classpath" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Code\Workspaces\Grails\Altols\web-app\images" />
+    </key>
   </component>
   <component name="RunManager" selected="Grails.Grails:Altols">
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
@@ -552,13 +561,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/index.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="40.714287">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/common/_topbar.gsp">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="78" selection-start="270" selection-end="270" vertical-scroll-proportion="0.42492014">
@@ -566,16 +568,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/main.gsp">
+    <entry file="file://$PROJECT_DIR$/grails-app/views/common/_buddies.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="1411" selection-end="1411" vertical-scroll-proportion="-6.107143">
+        <state line="2" column="19" selection-start="62" selection-end="62" vertical-scroll-proportion="-0.74509805">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web-app/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="1" selection-start="190" selection-end="190" vertical-scroll-proportion="0.5954416">
+        <state line="26" column="5" selection-start="579" selection-end="583" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/index.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="0" selection-start="1064" selection-end="1064" vertical-scroll-proportion="-6.571429">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/main.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="10" selection-start="1771" selection-end="1771" vertical-scroll-proportion="1.4117647">
           <folding />
         </state>
       </provider>
