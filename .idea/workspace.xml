@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4310ea8a-0d2f-4ed1-8f84-a5b01641c724" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/layouts/main.gsp" afterPath="$PROJECT_DIR$/grails-app/views/layouts/main.gsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/css/main.css" afterPath="$PROJECT_DIR$/web-app/css/main.css" />
     </list>
@@ -72,19 +71,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.gsp" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.gsp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/main.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="0" selection-start="1362" selection-end="1362" vertical-scroll-proportion="0.40557274">
+            <state line="24" column="0" selection-start="1411" selection-end="1411" vertical-scroll-proportion="-6.107143">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web-app/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="1" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0">
+            <state line="11" column="1" selection-start="190" selection-end="190" vertical-scroll-proportion="0.5954416">
               <folding />
             </state>
           </provider>
@@ -110,8 +109,9 @@
         <option value="$PROJECT_DIR$/grails-app/controllers/altols/TodoController.groovy" />
         <option value="$PROJECT_DIR$/grails-app/controllers/altols/UserController.groovy" />
         <option value="$PROJECT_DIR$/grails-app/views/common/_footer.gsp" />
-        <option value="$PROJECT_DIR$/web-app/css/main.css" />
+        <option value="$PROJECT_DIR$/grails-app/views/common/_topbar.gsp" />
         <option value="$PROJECT_DIR$/grails-app/views/layouts/main.gsp" />
+        <option value="$PROJECT_DIR$/web-app/css/main.css" />
       </list>
     </option>
   </component>
@@ -559,16 +559,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web-app/css/main.css">
+    <entry file="file://$PROJECT_DIR$/grails-app/views/common/_topbar.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="1" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0">
+        <state line="7" column="78" selection-start="270" selection-end="270" vertical-scroll-proportion="0.42492014">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/main.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="1362" selection-end="1362" vertical-scroll-proportion="0.40557274">
+        <state line="24" column="0" selection-start="1411" selection-end="1411" vertical-scroll-proportion="-6.107143">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-app/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="1" selection-start="190" selection-end="190" vertical-scroll-proportion="0.5954416">
           <folding />
         </state>
       </provider>
